@@ -62,11 +62,11 @@ Code samples and working examples from my blog posts — .NET, C#, Python, and S
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Blog Posts
 
+- [Podman Rootless em Produção: Substituindo Docker](https://zocate.li/posts/2026/podman-rootless-producao-docker-seguranca-compliance/) (2026-05-10)
+- [C# como Script no .NET: Como Usar e Quando Vale a Pena](https://zocate.li/posts/2026/executar-csharp-como-script-dotnet/) (2026-05-03)
 - [Você Está Construindo a Fábrica de Cretinos Digitais?](https://zocate.li/posts/2026/fabrica-cretinos-digitais-desmurget-responsabilidade-dev/) (2026-04-25)
 - [Zero JavaScript: CRUD Completo com Blazor WASM e Radzen](https://zocate.li/posts/2026/blazor-wasm-crud-radzen-tutorial-dotnet10/) (2026-04-05)
 - [Seu Próximo Frontend Será C#? A Verdade Sobre Blazor WASM](https://zocate.li/posts/2026/blazor-webassembly-producao-corporativa-angular-comparativo/) (2026-04-01)
-- [API Gateway: A Peça que Falta na Segurança da Sua SPA](https://zocate.li/posts/2026/api-gateway-seguranca-spa-jwt-bff/) (2026-03-29)
-- [node_modules É Um Buraco Negro: Deno e Bun Resolveram Isso](https://zocate.li/posts/2026/deno-bun-nodejs-comparativo-node-modules-angular/) (2026-03-22)
 
 ▶ [More posts on zocate.li](https://zocate.li)
 <!-- BLOG-POSTS:END -->
