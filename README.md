@@ -62,11 +62,11 @@ Code samples and working examples from my blog posts — .NET, C#, Python, and S
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Blog Posts
 
+- [Angular 22: reatividade, arquitetura e por que migrar](https://zocate.li/posts/2026/angular-22-reatividade-arquitetura-migracao/) (2026-06-14)
+- [Comparação da Linguagem C# em Sistemas Críticos](https://zocate.li/posts/2026/comparacao-linguagem-csharp-sistemas-criticos/) (2026-06-14)
 - [C#, Go, Python, Java, Ruby e PHP: qual linguagem escolher?](https://zocate.li/posts/2026/comparacao-csharp-go-python-java-ruby-php-qual-linguagem-escolher/) (2026-06-07)
 - [Redis: Big Keys Destroem o Desempenho Compartilhado](https://zocate.li/posts/2026/redis-chaves-grandes-ambientes-compartilhados/) (2026-05-24)
 - [Podman Rootless em Produção: Substituindo Docker](https://zocate.li/posts/2026/podman-rootless-producao-docker-seguranca-compliance/) (2026-05-10)
-- [C# como Script no .NET: Como Usar e Quando Vale a Pena](https://zocate.li/posts/2026/executar-csharp-como-script-dotnet/) (2026-05-03)
-- [Você Está Construindo a Fábrica de Cretinos Digitais?](https://zocate.li/posts/2026/fabrica-cretinos-digitais-desmurget-responsabilidade-dev/) (2026-04-25)
 
 ▶ [More posts on zocate.li](https://zocate.li)
 <!-- BLOG-POSTS:END -->
