@@ -62,11 +62,11 @@ Code samples and working examples from my blog posts — .NET, C#, Python, and S
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Blog Posts
 
+- [CI/CD Seguro: Dependabot, SAST e DAST no GitHub](https://zocate.li/posts/2026/cicd-seguro-dependabot-sast-dast-github/) (2026-06-17)
+- [Prevenção de DDoS: Guia de Segurança de Infraestrutura](https://zocate.li/posts/2026/prevencao-ddos-infraestrutura-seguranca/) (2026-06-17)
 - [Angular 22: reatividade, arquitetura e por que migrar](https://zocate.li/posts/2026/angular-22-reatividade-arquitetura-migracao/) (2026-06-14)
 - [Comparação da Linguagem C# em Sistemas Críticos](https://zocate.li/posts/2026/comparacao-linguagem-csharp-sistemas-criticos/) (2026-06-14)
 - [C#, Go, Python, Java, Ruby e PHP: qual linguagem escolher?](https://zocate.li/posts/2026/comparacao-csharp-go-python-java-ruby-php-qual-linguagem-escolher/) (2026-06-07)
-- [Redis: Big Keys Destroem o Desempenho Compartilhado](https://zocate.li/posts/2026/redis-chaves-grandes-ambientes-compartilhados/) (2026-05-24)
-- [Podman Rootless em Produção: Substituindo Docker](https://zocate.li/posts/2026/podman-rootless-producao-docker-seguranca-compliance/) (2026-05-10)
 
 ▶ [More posts on zocate.li](https://zocate.li)
 <!-- BLOG-POSTS:END -->
