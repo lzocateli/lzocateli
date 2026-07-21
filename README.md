@@ -62,11 +62,11 @@ Code samples and working examples from my blog posts — .NET, C#, Python, and S
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Blog Posts
 
+- [Tempo real no Angular e .NET: WebSockets, SSE e SignalR](https://zocate.li/posts/2026/tempo-real-angular-dotnet-websockets-sse-signalr-long-polling/) (2026-07-20)
 - [CORS não é detalhe: por que times ainda erram esse básico](https://zocate.li/posts/2026/cors-seguranca-nginx-aspnet-core/) (2026-07-12)
 - [Certificados SSL/TLS: Como Funcionam e Como Validar](https://zocate.li/posts/2026/certificado-ssl-tls/) (2026-07-11)
 - [CI/CD Seguro: Dependabot, SAST e DAST no GitHub](https://zocate.li/posts/2026/cicd-seguro-dependabot-sast-dast-github/) (2026-06-17)
 - [Prevenção de DDoS: Guia de Segurança de Infraestrutura](https://zocate.li/posts/2026/prevencao-ddos-infraestrutura-seguranca/) (2026-06-17)
-- [Angular 22: reatividade, arquitetura e por que migrar](https://zocate.li/posts/2026/angular-22-reatividade-arquitetura-migracao/) (2026-06-14)
 
 ▶ [More posts on zocate.li](https://zocate.li)
 <!-- BLOG-POSTS:END -->
