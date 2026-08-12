@@ -62,11 +62,11 @@ Code samples and working examples from my blog posts — .NET, C#, Python, and S
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Blog Posts
 
+- [Thread-safety em .NET 10 e Python: GIL e race conditions](https://zocate.li/posts/2026/thread-safety-dotnet-10-vs-python-gil-race-conditions/) (2026-08-11)
 - [Arquitetura de Eventos sem Caos com C#: Guia Prático](https://zocate.li/posts/2026/arquitetura-eventos-sem-caos-com-csharp/) (2026-07-31)
 - [Apache Airflow com .NET 10: dispare e monitore DAGs](https://zocate.li/posts/2026/apache-airflow-dotnet-10-api-dags/) (2026-07-24)
 - [Git History para Debug e Auditoria em Escala](https://zocate.li/posts/2026/git-history-debug-auditoria-escala/) (2026-07-22)
 - [Tempo real no Angular e .NET: WebSockets, SSE e SignalR](https://zocate.li/posts/2026/tempo-real-angular-dotnet-websockets-sse-signalr-long-polling/) (2026-07-20)
-- [CORS não é detalhe: por que times ainda erram esse básico](https://zocate.li/posts/2026/cors-seguranca-nginx-aspnet-core/) (2026-07-12)
 
 ▶ [More posts on zocate.li](https://zocate.li)
 <!-- BLOG-POSTS:END -->
