@@ -90,11 +90,57 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lzocateli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzocateli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
+<!-- PROFILE-STATS:START -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lzocateli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### 🕒 Mais ativo em 🌆 Noite
+
+<table width="100%">
+  <thead><tr><th align="left">Categoria</th><th align="right">Total</th><th align="left">Distribuição</th><th align="right">Percentual</th></tr></thead>
+  <tbody>
+  <tr><td>🌅 Manhã</td><td align="right">2 commits</td><td><code>██░░░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">04.76%</td></tr>
+  <tr><td>☀️ Tarde</td><td align="right">11 commits</td><td><code>███████████░░░░░░░░░░░░░</code></td><td align="right">26.19%</td></tr>
+  <tr><td>🌆 Noite</td><td align="right">25 commits</td><td><code>████████████████████████</code></td><td align="right">59.52%</td></tr>
+  <tr><td>🌙 Madrugada</td><td align="right">4 commits</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">09.52%</td></tr>
+  </tbody>
+</table>
+
+### 🔥 Mais código em Dockerfile
+
+<table width="100%">
+  <thead><tr><th align="left">Categoria</th><th align="right">Total</th><th align="left">Distribuição</th><th align="right">Percentual</th></tr></thead>
+  <tbody>
+  <tr><td>Dockerfile</td><td align="right">11 repos</td><td><code>████████████████████████</code></td><td align="right">24.44%</td></tr>
+  <tr><td>Python</td><td align="right">8 repos</td><td><code>█████████████████░░░░░░░</code></td><td align="right">17.78%</td></tr>
+  <tr><td>Shell</td><td align="right">8 repos</td><td><code>█████████████████░░░░░░░</code></td><td align="right">17.78%</td></tr>
+  <tr><td>PowerShell</td><td align="right">5 repos</td><td><code>███████████░░░░░░░░░░░░░</code></td><td align="right">11.11%</td></tr>
+  <tr><td>C#</td><td align="right">3 repos</td><td><code>███████░░░░░░░░░░░░░░░░░</code></td><td align="right">06.67%</td></tr>
+  <tr><td>CSS</td><td align="right">3 repos</td><td><code>███████░░░░░░░░░░░░░░░░░</code></td><td align="right">06.67%</td></tr>
+  <tr><td>HTML</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">04.44%</td></tr>
+  <tr><td>PLpgSQL</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">04.44%</td></tr>
+  <tr><td>TSQL</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">04.44%</td></tr>
+  <tr><td>TypeScript</td><td align="right">1 repos</td><td><code>██░░░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">02.22%</td></tr>
+  </tbody>
+</table>
+
+### 🗓️ Mais produtivo na Terça-feira
+
+<table width="100%">
+  <thead><tr><th align="left">Categoria</th><th align="right">Total</th><th align="left">Distribuição</th><th align="right">Percentual</th></tr></thead>
+  <tbody>
+  <tr><td>Domingo</td><td align="right">8 commits</td><td><code>████████████░░░░░░░░░░░░</code></td><td align="right">19.05%</td></tr>
+  <tr><td>Segunda-feira</td><td align="right">7 commits</td><td><code>██████████░░░░░░░░░░░░░░</code></td><td align="right">16.67%</td></tr>
+  <tr><td>Terça-feira</td><td align="right">16 commits</td><td><code>████████████████████████</code></td><td align="right">38.10%</td></tr>
+  <tr><td>Quarta-feira</td><td align="right">7 commits</td><td><code>██████████░░░░░░░░░░░░░░</code></td><td align="right">16.67%</td></tr>
+  <tr><td>Quinta-feira</td><td align="right">3 commits</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">07.14%</td></tr>
+  <tr><td>Sexta-feira</td><td align="right">0 commits</td><td><code>░░░░░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">00.00%</td></tr>
+  <tr><td>Sábado</td><td align="right">1 commits</td><td><code>██░░░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">02.38%</td></tr>
+  </tbody>
+</table>
+
+<sub>⏳ Atualizado em 13/08/2026 14:10:31 BRT · janela móvel de 12 meses</sub>
+
+<!-- PROFILE-STATS:END -->
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=lzocateli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
