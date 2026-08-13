@@ -1,42 +1,55 @@
-# Hi, I'm Lincoln Zocateli
+# [lzocateli (Lincoln Zocateli)](https://github.com/lzocateli)
 
-**Solutions Architect** with 25+ years of experience designing robust, secure, and scalable systems — from enterprise applications to cloud-native distributed platforms.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79c0ff&center=true&vCenter=true&width=720&lines=Solutions+Architect;Cloud+Architecture;Backend+%26+Platform+Engineering;Distributed+Systems;Security+%26+Scalability" alt="Typing SVG" />
+</p>
 
-[![Blog](https://img.shields.io/badge/Blog-zocate.li-0A66C2?style=flat&logo=hugo&logoColor=white)](https://zocate.li)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lzocateli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lzocateli)
-[![X](https://img.shields.io/badge/X-@lzocateli00-000000?style=flat&logo=x&logoColor=white)](https://x.com/lzocateli00)
+<p align="center">
+  <a href="https://zocate.li"><img src="https://img.shields.io/badge/Blog-zocate.li-0A66C2?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" /></a>
+  <a href="https://linkedin.com/in/lzocateli"><img src="https://img.shields.io/badge/LinkedIn-lzocateli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/lzocateli00"><img src="https://img.shields.io/badge/X-@lzocateli00-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Architecture-Enterprise%20Systems-0A66C2?style=flat-square&logo=microsoft&logoColor=white" alt="Architecture" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Cloud-Azure%20%26%20Kubernetes-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Stack-.NET%20%26%20C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="Stack" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Security-Platform%20Engineering-1F6FEB?style=flat-square&logo=security&logoColor=white" alt="Security" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Infrastructure-Docker%20%26%20Ops-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Infrastructure" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Observability-Prometheus%20%26%20Grafana-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Observability" /></td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%"><strong>Platform Strategy</strong><br />Cloud-native architecture and modernization</td>
+    <td align="center" width="34%"><strong>Reliability</strong><br />Secure, scalable systems with operational rigor</td>
+    <td align="center" width="33%"><strong>Engineering</strong><br />Backend, DevOps, integration and observability</td>
+  </tr>
+</table>
+
+---
+
+## Quem sou eu
+
+**Arquiteto de Soluções** com mais de 25 anos de experiência no projeto de sistemas robustos, seguros e escaláveis utilizando .NET, arquitetura distribuída, plataformas nativas em nuvem e princípios de engenharia com foco em segurança. Atuo nas áreas de backend, infraestrutura, DevOps e modernização de plataformas para entregar produtos confiáveis ​​para operações do mundo real.
 
 ---
 
 ## Tech Stack
 
-**Backend & Architecture**
-
-![C#](https://img.shields.io/badge/C%23-.NET%208+-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-ORM-512BD4?style=flat&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-009688?style=flat)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-FF6F00?style=flat)
-
-**Cloud & Infrastructure**
-
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-Rootless-892CA0?style=flat&logo=podman&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-AKS-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Production-FCC624?style=flat&logo=linux&logoColor=black)
-
-**DevOps & Automation**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat&logo=ansible&logoColor=white)
-
-**Data & Security**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-Security-EB5424?style=flat)
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+| Área                      | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Backend & Linguagens      | <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/.NET-8%2B-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />                       |
+| Banco de Dados            | <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="IBM DB2" src="https://img.shields.io/badge/IBM%20DB2-054ADA?style=flat-square" /> <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" /> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />                                                                                                                                              |
+| Mensageria & Integração   | <img alt="Azure Service Bus" src="https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /> <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" /> <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />                                                                                                                                                                                                                                   |
+| Cloud & DevOps            | <img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> |
+| Infraestrutura & Operação | <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-EEFF00?style=flat-square" /> <img alt="TrueNAS" src="https://img.shields.io/badge/TrueNAS-1E90FF?style=flat-square" /> <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />                                                                                       |
+| Segurança & Integração    | <img alt="OAuth 2.0" src="https://img.shields.io/badge/OAuth-2.0-EB5424?style=flat-square&logo=oauth&logoColor=white" /> <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img alt="Identity" src="https://img.shields.io/badge/Identity-0A66C2?style=flat-square" />                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Observabilidade           | <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" /> <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img alt="Application Insights" src="https://img.shields.io/badge/Application%20Insights-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img alt="Azure Monitor" src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />                                                               |
 
 ---
 
@@ -44,23 +57,24 @@
 
 ### [Nuuvify.CommonPack](https://github.com/nuuvify/Nuuvify.CommonPack)
 
-Collection of .NET open-source libraries for building robust, scalable applications — 20+ NuGet packages covering persistence (Unit of Work, Repository Pattern), security (JWT, Azure AD), cloud integration (Azure Service Bus, Storage), and observability.
+Coleção de bibliotecas open source em .NET para construir aplicações robustas, escaláveis e seguras — mais de 20 packages NuGet cobrindo persistência, segurança, integração com a nuvem e observabilidade.
 
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=nuuvify_CommonPack&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nuuvify_CommonPack)
 [![NuGet](https://img.shields.io/nuget/v/Nuuvify.CommonPack.Extensions?label=NuGet)](https://www.nuget.org/packages?q=nuuvify)
 
 ### [ag-server-grid](https://github.com/nuuvify/ag-server-grid)
 
-Angular component for data grids with **server-side pagination** — designed for enterprise apps handling large datasets without loading everything client-side. Includes CRUD, CSV export, i18n, and smart date formatting.
+Componente Angular para grids de dados com **paginação no servidor** — pensado para aplicações corporativas que lidam com grandes volumes sem carregar tudo no cliente. Inclui CRUD, exportação CSV, i18n e formatação inteligente de datas.
 
 ### [blog-zocateli-sample](https://github.com/lzocateli/blog-zocateli-sample)
 
-Code samples and working examples from my blog posts — .NET, C#, Python, and SQL projects that accompany each article published on [zocate.li](https://zocate.li).
+Exemplos de código e materiais práticos dos meus artigos — projetos em .NET, C#, Python e SQL que acompanham cada publicação em [zocate.li](https://zocate.li).
 
 ---
 
+## Latest Blog Posts
+
 <!-- BLOG-POSTS:START -->
-### 📝 Latest Blog Posts
 
 - [Thread-safety em .NET 10 e Python: GIL e race conditions](https://zocate.li/posts/2026/thread-safety-dotnet-10-vs-python-gil-race-conditions/) (2026-08-11)
 - [Arquitetura de Eventos sem Caos com C#: Guia Prático](https://zocate.li/posts/2026/arquitetura-eventos-sem-caos-com-csharp/) (2026-07-31)
@@ -69,14 +83,18 @@ Code samples and working examples from my blog posts — .NET, C#, Python, and S
 - [Tempo real no Angular e .NET: WebSockets, SSE e SignalR](https://zocate.li/posts/2026/tempo-real-angular-dotnet-websockets-sse-signalr-long-polling/) (2026-07-20)
 
 ▶ [More posts on zocate.li](https://zocate.li)
+
 <!-- BLOG-POSTS:END -->
 
 ---
 
 ## GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lzocateli&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lzocateli&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lzocateli&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-</picture>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lzocateli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzocateli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lzocateli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
