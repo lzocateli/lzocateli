@@ -75,6 +75,7 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+### 📝 Latest Blog Posts
 
 - [Thread-safety em .NET 10 e Python: GIL e race conditions](https://zocate.li/posts/2026/thread-safety-dotnet-10-vs-python-gil-race-conditions/) (2026-08-11)
 - [Arquitetura de Eventos sem Caos com C#: Guia Prático](https://zocate.li/posts/2026/arquitetura-eventos-sem-caos-com-csharp/) (2026-07-31)
@@ -83,7 +84,6 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 - [Tempo real no Angular e .NET: WebSockets, SSE e SignalR](https://zocate.li/posts/2026/tempo-real-angular-dotnet-websockets-sse-signalr-long-polling/) (2026-07-20)
 
 ▶ [More posts on zocate.li](https://zocate.li)
-
 <!-- BLOG-POSTS:END -->
 
 ---
