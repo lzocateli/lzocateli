@@ -59,7 +59,7 @@
 
 Coleção de bibliotecas open source em .NET para construir aplicações robustas, escaláveis e seguras — mais de 20 packages NuGet cobrindo persistência, segurança, integração com a nuvem e observabilidade.
 
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=nuuvify_CommonPack&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nuuvify_CommonPack)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=nuuvify_Nuuvify.CommonPack&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nuuvify_Nuuvify.CommonPack)
 [![NuGet](https://img.shields.io/nuget/v/Nuuvify.CommonPack.Extensions?label=NuGet)](https://www.nuget.org/packages?q=nuuvify)
 
 ### [ag-server-grid](https://github.com/nuuvify/ag-server-grid)
