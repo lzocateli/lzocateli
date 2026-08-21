@@ -110,15 +110,15 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
   <thead><tr><th align="left">Categoria</th><th align="right">Total</th><th align="left">Distribuição</th><th align="right">Percentual</th></tr></thead>
   <tbody>
   <tr><td>Dockerfile</td><td align="right">11 repos</td><td><code>████████████████████████</code></td><td align="right">24.44%</td></tr>
-  <tr><td>Python</td><td align="right">8 repos</td><td><code>█████████████████░░░░░░░</code></td><td align="right">17.78%</td></tr>
   <tr><td>Shell</td><td align="right">8 repos</td><td><code>█████████████████░░░░░░░</code></td><td align="right">17.78%</td></tr>
+  <tr><td>Python</td><td align="right">8 repos</td><td><code>█████████████████░░░░░░░</code></td><td align="right">17.78%</td></tr>
   <tr><td>PowerShell</td><td align="right">5 repos</td><td><code>███████████░░░░░░░░░░░░░</code></td><td align="right">11.11%</td></tr>
-  <tr><td>C#</td><td align="right">3 repos</td><td><code>███████░░░░░░░░░░░░░░░░░</code></td><td align="right">06.67%</td></tr>
   <tr><td>CSS</td><td align="right">3 repos</td><td><code>███████░░░░░░░░░░░░░░░░░</code></td><td align="right">06.67%</td></tr>
+  <tr><td>C#</td><td align="right">3 repos</td><td><code>███████░░░░░░░░░░░░░░░░░</code></td><td align="right">06.67%</td></tr>
   <tr><td>HTML</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">04.44%</td></tr>
   <tr><td>PLpgSQL</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">04.44%</td></tr>
   <tr><td>TSQL</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">04.44%</td></tr>
-  <tr><td>TypeScript</td><td align="right">1 repos</td><td><code>██░░░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">02.22%</td></tr>
+  <tr><td>SCSS</td><td align="right">1 repos</td><td><code>██░░░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">02.22%</td></tr>
   </tbody>
 </table>
 
@@ -137,7 +137,7 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
   </tbody>
 </table>
 
-<sub>⏳ Atualizado em 20/08/2026 00:32:04 -03 · janela móvel de 12 meses</sub>
+<sub>⏳ Atualizado em 21/08/2026 00:34:59 -03 · janela móvel de 12 meses</sub>
 
 <!-- PROFILE-STATS:END -->
 
