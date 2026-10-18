@@ -77,11 +77,11 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Blog Posts
 
+- [gRPC sem mistério: o que é e quando usar no .NET 10](https://zocate.li/posts/2026/grpc-net-10-implementacao/) (2026-10-18)
 - [Transactional Outbox Pattern: Resolvendo o Dual Write](https://zocate.li/posts/2026/transactional-outbox-pattern-dual-write/) (2026-09-20)
 - [.NET Native AOT: Parte 2 — JIT, R2R e AOT em Benchmarks](https://zocate.li/posts/2026/dotnet-native-aot-jit-r2r-benchmarks/) (2026-09-03)
 - [.NET Native AOT: Parte 1 — Ecossistema de Compilação](https://zocate.li/posts/2026/dotnet-native-aot-ecossistema-compilacao/) (2026-08-21)
 - [Como Publicar uma Biblioteca .NET no NuGet.org](https://zocate.li/posts/2026/publicar-biblioteca-dotnet-nuget/) (2026-08-19)
-- [Thread-safety em .NET 10 e Python: GIL e race conditions](https://zocate.li/posts/2026/thread-safety-dotnet-10-vs-python-gil-race-conditions/) (2026-08-11)
 
 ▶ [More posts on zocate.li](https://zocate.li)
 <!-- BLOG-POSTS:END -->
