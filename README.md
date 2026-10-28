@@ -97,10 +97,10 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 <table width="100%">
   <thead><tr><th align="left">Categoria</th><th align="right">Total</th><th align="left">Distribuição</th><th align="right">Percentual</th></tr></thead>
   <tbody>
-  <tr><td>🌅 Manhã</td><td align="right">28 commits</td><td><code>█████████░░░░░░░░░░░░░░░</code></td><td align="right">15.91%</td></tr>
-  <tr><td>☀️ Tarde</td><td align="right">57 commits</td><td><code>█████████████████░░░░░░░</code></td><td align="right">32.39%</td></tr>
-  <tr><td>🌆 Noite</td><td align="right">79 commits</td><td><code>████████████████████████</code></td><td align="right">44.89%</td></tr>
-  <tr><td>🌙 Madrugada</td><td align="right">12 commits</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">06.82%</td></tr>
+  <tr><td>🌅 Manhã</td><td align="right">28 commits</td><td><code>████████░░░░░░░░░░░░░░░░</code></td><td align="right">15.82%</td></tr>
+  <tr><td>☀️ Tarde</td><td align="right">57 commits</td><td><code>█████████████████░░░░░░░</code></td><td align="right">32.20%</td></tr>
+  <tr><td>🌆 Noite</td><td align="right">80 commits</td><td><code>████████████████████████</code></td><td align="right">45.20%</td></tr>
+  <tr><td>🌙 Madrugada</td><td align="right">12 commits</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">06.78%</td></tr>
   </tbody>
 </table>
 
@@ -127,17 +127,17 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 <table width="100%">
   <thead><tr><th align="left">Categoria</th><th align="right">Total</th><th align="left">Distribuição</th><th align="right">Percentual</th></tr></thead>
   <tbody>
-  <tr><td>Domingo</td><td align="right">24 commits</td><td><code>████████████░░░░░░░░░░░░</code></td><td align="right">13.64%</td></tr>
-  <tr><td>Segunda-feira</td><td align="right">18 commits</td><td><code>█████████░░░░░░░░░░░░░░░</code></td><td align="right">10.23%</td></tr>
-  <tr><td>Terça-feira</td><td align="right">28 commits</td><td><code>██████████████░░░░░░░░░░</code></td><td align="right">15.91%</td></tr>
-  <tr><td>Quarta-feira</td><td align="right">48 commits</td><td><code>████████████████████████</code></td><td align="right">27.27%</td></tr>
-  <tr><td>Quinta-feira</td><td align="right">29 commits</td><td><code>██████████████░░░░░░░░░░</code></td><td align="right">16.48%</td></tr>
-  <tr><td>Sexta-feira</td><td align="right">18 commits</td><td><code>█████████░░░░░░░░░░░░░░░</code></td><td align="right">10.23%</td></tr>
-  <tr><td>Sábado</td><td align="right">11 commits</td><td><code>██████░░░░░░░░░░░░░░░░░░</code></td><td align="right">06.25%</td></tr>
+  <tr><td>Domingo</td><td align="right">24 commits</td><td><code>████████████░░░░░░░░░░░░</code></td><td align="right">13.56%</td></tr>
+  <tr><td>Segunda-feira</td><td align="right">18 commits</td><td><code>█████████░░░░░░░░░░░░░░░</code></td><td align="right">10.17%</td></tr>
+  <tr><td>Terça-feira</td><td align="right">29 commits</td><td><code>██████████████░░░░░░░░░░</code></td><td align="right">16.38%</td></tr>
+  <tr><td>Quarta-feira</td><td align="right">48 commits</td><td><code>████████████████████████</code></td><td align="right">27.12%</td></tr>
+  <tr><td>Quinta-feira</td><td align="right">29 commits</td><td><code>██████████████░░░░░░░░░░</code></td><td align="right">16.38%</td></tr>
+  <tr><td>Sexta-feira</td><td align="right">18 commits</td><td><code>█████████░░░░░░░░░░░░░░░</code></td><td align="right">10.17%</td></tr>
+  <tr><td>Sábado</td><td align="right">11 commits</td><td><code>██████░░░░░░░░░░░░░░░░░░</code></td><td align="right">06.21%</td></tr>
   </tbody>
 </table>
 
-<sub>⏳ Atualizado em 27/10/2026 00:33:59 -03 · janela móvel de 12 meses</sub>
+<sub>⏳ Atualizado em 28/10/2026 00:25:16 -03 · janela móvel de 12 meses</sub>
 
 <!-- PROFILE-STATS:END -->
 
