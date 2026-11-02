@@ -77,11 +77,11 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Blog Posts
 
-- [GraphQL para Iniciantes: Um Guia Completo para Desenvolvedores](https://zocate.li/posts/2026/graphql-tutorial/) (2026-10-24)
+- [Aspire no .NET: o que é e como começar](https://zocate.li/posts/2026/net-aspire-o-que-e-como-implementar/) (2026-11-02)
+- [SignalR no .NET: do primeiro Hub à produção](https://zocate.li/posts/2026/signalr-aspnet-core-guia/) (2026-11-01)
+- [GraphQL para Iniciantes: Guia Completo com .NET](https://zocate.li/posts/2026/graphql-tutorial/) (2026-10-24)
 - [gRPC sem mistério: o que é e quando usar no .NET 10](https://zocate.li/posts/2026/grpc-net-10-implementacao/) (2026-10-18)
 - [Transactional Outbox Pattern: Resolvendo o Dual Write](https://zocate.li/posts/2026/transactional-outbox-pattern-dual-write/) (2026-09-20)
-- [.NET Native AOT: Parte 2 — JIT, R2R e AOT em Benchmarks](https://zocate.li/posts/2026/dotnet-native-aot-jit-r2r-benchmarks/) (2026-09-03)
-- [.NET Native AOT: Parte 1 — Ecossistema de Compilação](https://zocate.li/posts/2026/dotnet-native-aot-ecossistema-compilacao/) (2026-08-21)
 
 ▶ [More posts on zocate.li](https://zocate.li)
 <!-- BLOG-POSTS:END -->
