@@ -109,16 +109,16 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 <table width="100%">
   <thead><tr><th align="left">Categoria</th><th align="right">Total</th><th align="left">Distribuição</th><th align="right">Percentual</th></tr></thead>
   <tbody>
-  <tr><td>Dockerfile</td><td align="right">13 repos</td><td><code>████████████████████████</code></td><td align="right">22.81%</td></tr>
-  <tr><td>Shell</td><td align="right">11 repos</td><td><code>████████████████████░░░░</code></td><td align="right">19.30%</td></tr>
-  <tr><td>Python</td><td align="right">9 repos</td><td><code>█████████████████░░░░░░░</code></td><td align="right">15.79%</td></tr>
-  <tr><td>PowerShell</td><td align="right">8 repos</td><td><code>███████████████░░░░░░░░░</code></td><td align="right">14.04%</td></tr>
-  <tr><td>C#</td><td align="right">6 repos</td><td><code>███████████░░░░░░░░░░░░░</code></td><td align="right">10.53%</td></tr>
-  <tr><td>CSS</td><td align="right">3 repos</td><td><code>██████░░░░░░░░░░░░░░░░░░</code></td><td align="right">05.26%</td></tr>
-  <tr><td>HTML</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">03.51%</td></tr>
-  <tr><td>PLpgSQL</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">03.51%</td></tr>
-  <tr><td>TSQL</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">03.51%</td></tr>
-  <tr><td>Swift</td><td align="right">1 repos</td><td><code>██░░░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">01.75%</td></tr>
+  <tr><td>Dockerfile</td><td align="right">13 repos</td><td><code>████████████████████████</code></td><td align="right">22.41%</td></tr>
+  <tr><td>Shell</td><td align="right">11 repos</td><td><code>████████████████████░░░░</code></td><td align="right">18.97%</td></tr>
+  <tr><td>Python</td><td align="right">9 repos</td><td><code>█████████████████░░░░░░░</code></td><td align="right">15.52%</td></tr>
+  <tr><td>PowerShell</td><td align="right">8 repos</td><td><code>███████████████░░░░░░░░░</code></td><td align="right">13.79%</td></tr>
+  <tr><td>C#</td><td align="right">6 repos</td><td><code>███████████░░░░░░░░░░░░░</code></td><td align="right">10.34%</td></tr>
+  <tr><td>CSS</td><td align="right">3 repos</td><td><code>██████░░░░░░░░░░░░░░░░░░</code></td><td align="right">05.17%</td></tr>
+  <tr><td>JavaScript</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">03.45%</td></tr>
+  <tr><td>HTML</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">03.45%</td></tr>
+  <tr><td>PLpgSQL</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">03.45%</td></tr>
+  <tr><td>TSQL</td><td align="right">2 repos</td><td><code>████░░░░░░░░░░░░░░░░░░░░</code></td><td align="right">03.45%</td></tr>
   </tbody>
 </table>
 
@@ -137,7 +137,7 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
   </tbody>
 </table>
 
-<sub>⏳ Atualizado em 08/11/2026 00:21:54 -03 · janela móvel de 12 meses</sub>
+<sub>⏳ Atualizado em 09/11/2026 00:23:54 -03 · janela móvel de 12 meses</sub>
 
 <!-- PROFILE-STATS:END -->
 
