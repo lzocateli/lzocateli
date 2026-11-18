@@ -77,7 +77,7 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
 <!-- BLOG-POSTS:START -->
 ### 📝 Latest Blog Posts
 
-- [Channels no .NET: filas, backpressure e cancelamento](https://zocate.li/posts/2026/system-threading-channels/) (2026-11-15)
+- [Channels no .NET: filas, backpressure e cancelamento](https://zocate.li/posts/2026/system-threading-channels/) (2026-11-18)
 - [Aspire no .NET: o que é e como começar](https://zocate.li/posts/2026/net-aspire-o-que-e-como-implementar/) (2026-11-02)
 - [SignalR no .NET: do primeiro Hub à produção](https://zocate.li/posts/2026/signalr-aspnet-core-guia/) (2026-11-01)
 - [GraphQL para Iniciantes: Guia Completo com .NET](https://zocate.li/posts/2026/graphql-tutorial/) (2026-10-24)
