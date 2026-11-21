@@ -131,13 +131,13 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
   <tr><td>Segunda-feira</td><td align="right">30 commits</td><td><code>█████████████░░░░░░░░░░░</code></td><td align="right">11.86%</td></tr>
   <tr><td>Terça-feira</td><td align="right">35 commits</td><td><code>████████████████░░░░░░░░</code></td><td align="right">13.83%</td></tr>
   <tr><td>Quarta-feira</td><td align="right">54 commits</td><td><code>████████████████████████</code></td><td align="right">21.34%</td></tr>
-  <tr><td>Quinta-feira</td><td align="right">35 commits</td><td><code>████████████████░░░░░░░░</code></td><td align="right">13.83%</td></tr>
-  <tr><td>Sexta-feira</td><td align="right">26 commits</td><td><code>████████████░░░░░░░░░░░░</code></td><td align="right">10.28%</td></tr>
+  <tr><td>Quinta-feira</td><td align="right">34 commits</td><td><code>███████████████░░░░░░░░░</code></td><td align="right">13.44%</td></tr>
+  <tr><td>Sexta-feira</td><td align="right">27 commits</td><td><code>████████████░░░░░░░░░░░░</code></td><td align="right">10.67%</td></tr>
   <tr><td>Sábado</td><td align="right">31 commits</td><td><code>██████████████░░░░░░░░░░</code></td><td align="right">12.25%</td></tr>
   </tbody>
 </table>
 
-<sub>⏳ Atualizado em 20/11/2026 00:22:30 -03 · janela móvel de 12 meses</sub>
+<sub>⏳ Atualizado em 21/11/2026 00:21:41 -03 · janela móvel de 12 meses</sub>
 
 <!-- PROFILE-STATS:END -->
 
