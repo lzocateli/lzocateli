@@ -137,7 +137,7 @@ Exemplos de código e materiais práticos dos meus artigos — projetos em .NET,
   </tbody>
 </table>
 
-<sub>⏳ Atualizado em 21/11/2026 00:21:41 -03 · janela móvel de 12 meses</sub>
+<sub>⏳ Atualizado em 22/11/2026 00:22:28 -03 · janela móvel de 12 meses</sub>
 
 <!-- PROFILE-STATS:END -->
 
